@@ -49,7 +49,7 @@ django-lead-generation-system/
 └── requirements.txt
 ⚙️ Installation
 Clone Repository
-git clone https://github.com/yourusername/django-lead-generation-system.git
+git clone https://github.com/Anisjamiloffical1/django-lead-generation-system.git
 
 cd django-lead-generation-system
 Create Virtual Environment
